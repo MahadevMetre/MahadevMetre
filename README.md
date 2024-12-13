@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate AWS DevOps Engineer with expertise in automating cloud infrastructure, CI/CD pipelines, and leveraging tools like Terraform, Ansible, and Bash scripting to optimize workflows.
+Passionate AWS DevOps Engineer with expertise in automating cloud infrastructure, CI/CD pipelines, and leveraging tools like Terraform, Python, Ansible, and Bash scripting to optimize workflows.
 
 
 ## 🌐 Socials:
