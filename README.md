@@ -1,5 +1,5 @@
 # 💫 About Me:
-![image](https://github.com/user-attachments/assets/0a2076b6-7615-42bc-963e-65e78e3185b7)
+Passionate AWS DevOps Engineer with expertise in automating cloud infrastructure, CI/CD pipelines, and leveraging tools like Terraform, Python, Ansible, and Bash scripting to optimize workflows.
 
 
 ## 🌐 Socials:
